@@ -1,0 +1,15 @@
+<script src="https://giscus.app/client.js"
+        data-repo="esporttoys/.github"
+        data-repo-id="R_kgDOJbILBQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOJbILBc4CWCcd"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
